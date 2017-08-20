@@ -4,3 +4,4 @@ My name is. JavaScript
 * `Bootstrap`
 * `HTML`
 * `CSS`
+* Killing history using git rebase
